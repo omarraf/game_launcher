@@ -19,8 +19,7 @@ _TBD_
 
 
 ## Diagram
-[Link to diagram](game_launcher_diagram.pdf)
-
+![game_launcher_diagram-1](https://github.com/user-attachments/assets/61402de4-81e6-4034-a9e1-6afd0d38e53c)
 
 
 
