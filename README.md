@@ -20,7 +20,7 @@ _TBD_
 
 
 ## Diagram
-![System Architecture](path/to/diagram.png)
+
 
 
 
