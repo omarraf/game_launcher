@@ -10,8 +10,7 @@
 
 ## Project Description
 
-This project focuses on establishing a gaming division to develop, launch, and manage new video games efficiently, enabling Fullerton Funhouse Inc. to pivot quickly and respond to popular trends (e.g., games trending on streaming platforms).
-
+This project aims to develop a game launcher that allows users to effortlessly discover and play their favorite games.
 
 
 ## Installation Instructions
