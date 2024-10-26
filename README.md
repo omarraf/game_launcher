@@ -20,9 +20,11 @@ This project aims to develop a game launcher that allows users to effortlessly d
    ```bash
    git clone https://github.com/your-username/game-launcher.git
    ```
+2.
    ```bash
    npm install
    ```
+3.
    ```bash
    npm start
    ```
