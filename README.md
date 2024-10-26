@@ -1,22 +1,28 @@
 # Fullerton Funhouse Inc. - Game Launcher
 
----
+## Table of Contents
+- [Project Description](#project-description)
+- [Installation Instructions](#installation-instructions)
+- [Diagram](#diagram)
+- [Known Issues](#known-issues)
+- [To-Do](#to-do)
+
 
 ## Project Description
 
 This project focuses on establishing a gaming division to develop, launch, and manage new video games efficiently, enabling Fullerton Funhouse Inc. to pivot quickly and respond to popular trends (e.g., games trending on streaming platforms).
 
----
+
 
 ## Installation Instructions
 _TBD_
 
----
+
 
 ## Diagram
 ![System Architecture](path/to/diagram.png)
 
----
+
 
 ## Known Issues
 - The current prototype does not yet support multiplayer functionality.
