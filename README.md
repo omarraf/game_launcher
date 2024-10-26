@@ -19,6 +19,7 @@ _TBD_
 
 
 ## Diagram
+[Download Game Launcher Diagram](game_launcher_diagram.pdf)
 
 
 
