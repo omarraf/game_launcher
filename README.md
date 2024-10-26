@@ -14,7 +14,17 @@ This project aims to develop a game launcher that allows users to effortlessly d
 
 
 ## Installation Instructions
-_TBD_
+
+1. **Clone the Repository**  
+   Clone the project repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/your-username/game-launcher.git
+   
+   cd game-launcher
+
+   npm install
+
+
 
 
 
