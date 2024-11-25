@@ -57,3 +57,4 @@ This project aims to develop a game launcher that allows users to effortlessly d
 - [ ] Enhance compatibility with various game controllers.
 - [ ] Test and optimize performance across different platforms.
 - [ ] Prepare detailed user documentation and installation guides.
+- [ ] Add at least one more game
