@@ -20,8 +20,7 @@ This project aims to develop a game launcher that allows users to effortlessly d
    ```bash
    git clone https://github.com/your-username/game-launcher.git
    ```
-2. Navigate to the game_launcher.py file.
-   OR type in your terminal:
+2. To run the program type in your terminal:
    ```bash
    cd GameL
    ```
