@@ -18,7 +18,7 @@ This project aims to develop a game launcher that allows users to effortlessly d
 1. **Clone the Repository**  
    Clone the project repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/game-launcher.git
+   https://github.com/yourusername/game_launcher.git
    ```
 2. To run the program type in your terminal:
    ```bash
