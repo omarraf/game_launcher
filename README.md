@@ -28,6 +28,10 @@ This project aims to develop a game launcher that allows users to effortlessly d
 pip install pillow
 pip install pygame
 ```
+4.Unzip the Slime Slayer Version A.5.zip file
+```bash
+There will be 3 Slime slayer zip files, unzip the main one
+```
 4. To run the program type in your terminal:
    ```bash
    cd GameL
