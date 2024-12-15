@@ -20,7 +20,15 @@ This project aims to develop a game launcher that allows users to effortlessly d
    ```bash
    https://github.com/yourusername/game_launcher.git
    ```
-2. To run the program type in your terminal:
+2. Install Python from Microsoft store
+   ```bash
+   python --version (to ensure python is installed)
+3.Install these Python Packages
+```bash
+pip install pillow
+pip install pygame
+```
+4. To run the program type in your terminal:
    ```bash
    cd GameL
    ```
