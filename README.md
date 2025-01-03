@@ -59,7 +59,6 @@ There will be 3 Slime slayer zip files, unzip the main one
 - [x] Implement game discovery and launching features.
 - [x] Design and integrate a user-friendly UI.
 - [ ] Add multiplayer support for select games.
-- [ ] Enhance compatibility with various game controllers.
 - [ ] Test and optimize performance across different platforms.
 - [x] Prepare detailed user documentation and installation guides.
 - [x] Add at least one more game
